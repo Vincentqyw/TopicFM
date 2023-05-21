@@ -1,3 +1,5 @@
+# Submodule used in [hloc](https://github.com/Vincentqyw/Hierarchical-Localization) toolbox
+
 # [AAAI-23] TopicFM: Robust and Interpretable Topic-Assisted Feature Matching 
     
 Our method first inferred the latent topics (high-level context information) for each image and then use them to explicitly learn robust feature representation for the matching task. Please check out the details in [our paper](https://arxiv.org/abs/2207.00328)
